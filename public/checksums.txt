@@ -1,0 +1,2 @@
+876679e419458f38c73721f01a65a48c49b5ea0ab3239b7b651b52a708bae87f  Velocinder-Setup-1.0.0-x64.exe
+0f9e415a811ee48885d78aef34176f63b678abb14f68c5c0909bdc4fbd8b04f6  Velocinder-Windows.zip

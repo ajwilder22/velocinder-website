@@ -1,0 +1,20 @@
+# Third-party notices
+
+The proprietary license applies only to original Velocinder materials.
+
+- Electron and Chromium: see `LICENSE` and `LICENSES.chromium.html` in the portable
+  distribution. Electron is MIT licensed; Chromium includes multiple licenses.
+- Ghostery adblock engine 2.18.2: Mozilla Public License 2.0. Its compiled distribution and license
+  are included under `resources/app/node_modules/@ghostery/adblocker` in the
+  portable distribution. Original source: https://github.com/ghostery/adblocker/tree/v2.18.2
+- EasyList and EasyPrivacy: their original license comments are retained in the
+  bundled text files. See https://easylist.to/pages/licence.html for the applicable
+  GPL and Creative Commons terms. Lists remain separate data files with their
+  original notices; the application does not claim ownership of their rules.
+- Other dependencies: their distributed files and license files remain in the portable
+  distribution's `resources/app/node_modules` folder.
+
+Search services and third-party websites are owned by their respective operators.
+Velocinder is not affiliated with Google, Opera, or those services.
+
+

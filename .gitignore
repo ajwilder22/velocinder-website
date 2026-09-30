@@ -1,0 +1,6 @@
+dist/
+node_modules/
+public/downloads/*
+!public/downloads/.gitkeep
+.env
+*.log

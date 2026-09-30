@@ -1,0 +1,40 @@
+PROPRIETARY LICENSE — ORIGINAL VELOCINDER APPLICATION MATERIAL
+
+Copyright (c) 2026 the commissioning owner, using the provisional brand Velocinder Labs. All rights reserved.
+
+This notice applies only to the original application source code, original UI
+design, and original documentation created for the commissioning owner. The
+commissioning owner may use, modify, build, and distribute that original material.
+People who obtain a browser release from the commissioning owner may install and
+use it for personal and internal business purposes and keep a backup copy. No
+permission is granted to other recipients to redistribute, sell, rebrand, or
+create derivative works from the original proprietary material without written
+permission from its copyright holder, except where applicable law permits such
+use. The source package is provided for inspection; publishing it or derivative
+versions is not authorized by this notice. These restrictions do not apply to
+third-party material where its license grants broader rights.
+
+THIRD-PARTY MATERIAL
+Electron, Chromium, Ghostery's adblock engine, filter lists, and other third-party
+components remain subject to their own licenses. Those licenses and any rights
+they grant are not restricted by this notice. Bundled third-party license notices
+must remain intact. This notice does not claim ownership of third-party names,
+logos, search services, software, filter rules, or websites.
+
+NAME AND INDEPENDENT DEVELOPMENT
+The application is called Velocinder. No trademark registration, clearance search,
+or exclusive ownership of that name is asserted by this document. Copyright does
+not grant exclusive rights to browser functionality, ideas, or independently
+developed implementations. This document cannot bind AI services or prevent
+unrelated people from independently developing a browser.
+
+This application is provided without warranties to the extent permitted by law.
+
+LIMITS OF THIS NOTICE
+Velocinder Labs is a provisional brand, not a newly incorporated legal entity.
+The commissioning owner's legal identity has not been supplied. This notice
+reserves whatever rights legally exist; it does not establish copyright ownership
+or registration. AI-generated material may not qualify for U.S. copyright without
+sufficient human authorship. No exclusivity or enforceability is guaranteed.
+
+
