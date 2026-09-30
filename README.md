@@ -42,7 +42,7 @@ Node web service. Render plan terms and bandwidth usage apply to deployment.
 GitHub regular file commits have a 100 MiB limit; both download binaries exceed
 that threshold. They belong in release storage, not the normal Git tree. Render
 hosting access and a real release host must be available before public deployment.
-This build has not created a Render service, repository, release, or public URL.
+The site is deployed at https://velocinder-labs.onrender.com. See DEPLOYMENT.md for the current service, repository, and release links.
 
 ## Downloads
 
@@ -84,3 +84,4 @@ business launch. No nonexistent legal entity is represented as registered.
 - GitHub file limits: https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github
 
 See `QA.md` for browser checks, design references, and remaining release checks.
+
